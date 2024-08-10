@@ -1,8 +1,8 @@
-# UnicornData
+# Multivariate Regression Model
 
-This analysis, delved into the world of unicorns, identifying companies with valuations exceeding $1 billion. The focus was on understanding top unicorns based on valuation, examining key investors and their funding, and mapping the distribution of unicorn companies globally.
 
-Our findings highlighted the dominance of the USA and China in the unicorn landscape, with San Francisco emerging as the epicentre for these high-valued companies. Notably, Bytedance in China stood out as the most valued unicorn among the 1,044 companies analysed.
-
-To provide insights, a variety of visualizations were employed, including bar charts, bubble charts, time series charts, geographical heat maps, and tree maps. These visual aids offered a comprehensive view of unicorn concentration globally.
+Mr. John Hughes has been analyzing the diamonds dataset, which contains detailed information about diamonds, including attributes such as carat weight, cut quality, color, clarity, and dimensions (length, width, depth). 
+The main goal is to create a reliable multivariate regression model using these features to predict diamond prices accurately. This model will assist in understanding how different elements affect the price and provide information about pricing strategies of diamonds. Using statistical approaches and OneHotEncoding to translate categorical characteristics into numerical values, the model seeks to offer high precision and reliability, facilitating data-driven decision-making to optimize diamond pricing. The dataset consists of 10 variables and 53,940 observations, with the dependent variable being price in USD.
+At the conclusion of this analysis, Mr. Hughes will receive crucial insights into the relationships between the independent variables and the dependent variable within the regression model. 
+Additionally, he will be provided with recommendations that can assist in making more informed decisions and gaining a deeper understanding of the data.
 
